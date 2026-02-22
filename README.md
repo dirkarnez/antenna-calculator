@@ -10,3 +10,5 @@
 ### Meander
 - [What is meander line antenna| meander line patch antenna| antenna basic|antenna theory - YouTube](https://www.youtube.com/watch?v=bmmNgCtWt2c)
 - [THE STUDY AND IMPLEMENTATION OF MEANDER-LINE ANTENNA FOR AN INTEGRATED TRANSCEIVER DESIGN](https://www.diva-portal.org/smash/get/diva2:299692/FULLTEXT01.pdf)
+
+### [Patch antenna - Wikipedia](https://en.wikipedia.org/wiki/Patch_antenna)
