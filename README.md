@@ -13,3 +13,7 @@
 
 ### [Patch antenna - Wikipedia](https://en.wikipedia.org/wiki/Patch_antenna)
 - [Microstrip Patch Antenna - GeeksforGeeks](https://www.geeksforgeeks.org/electronics-engineering/microstrip-patch-antenna/)
+
+### Tutorials
+- [AN-B-027: Designing Printed Antennas for Bluetooth Low Energy](./files/REN_AN-B-027_Designing_Printed_Antennas_for_Bluetooth_Low_Energy_Rev2.5_APN_20240627_1.pdf)
+  - https://www.renesas.com/en/document/apn/b-027-designing-printed-antennas-bluetooth-low-energy
