@@ -64,6 +64,7 @@
     **Practical Tip:** Because of the complex interactions (mutual coupling) between the meandered segments ($L_4$), these antennas are rarely built using equations alone. Most engineers use the equations to get a "starting guess" and then use **EM Simulation software** (like CST, HFSS, or OpenEMS) to fine-tune the dimensions $D, L, \text{and } W$.
     ```
 ### Tutorials
+- [HugoTronics/WiFi-Patch-Antenna-Project: Open Source Patch Antenna Design for Wifi Application](https://github.com/HugoTronics/WiFi-Patch-Antenna-Project)
 - [AN-B-027: Designing Printed Antennas for Bluetooth Low Energy](./files/REN_AN-B-027_Designing_Printed_Antennas_for_Bluetooth_Low_Energy_Rev2.5_APN_20240627_1.pdf)
   - https://www.renesas.com/en/document/apn/b-027-designing-printed-antennas-bluetooth-low-energy
 - [A Complete Guide For PCB 2.4G Antenna Design | C&T RF Antennas Inc | Antenna Manufacturer](https://lcantennas.com/a-complete-guide-for-pcb-2-4g-antenna-design/)
@@ -72,3 +73,6 @@
 - [AN043 -- Small Size 2.4 GHz PCB Antenna (Rev. D)](https://www.ti.com/lit/an/swra117d/swra117d.pdf)
 - [KarthikT23/HFSS-Microstrip-Patch-Antenna: Designing a 2.4 GHz antenna using Ansys HFSS](https://github.com/KarthikT23/HFSS-Microstrip-Patch-Antenna)
 - [WissamAntoun/Circularly-Polarized-Patch-Antenna-HFSS: A microstrip patch antenna with circularly polarized matched to 50 Ω and operating at 2.4 GHz. SImulation done on HFSS](https://github.com/WissamAntoun/Circularly-Polarized-Patch-Antenna-HFSS)
+
+### Tools
+- [thliebig/openEMS-Project: openEMS is a free and open electromagnetic field solver using the FDTD method.](https://github.com/thliebig/openEMS-Project)
