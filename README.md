@@ -73,6 +73,16 @@
 - [AN043 -- Small Size 2.4 GHz PCB Antenna (Rev. D)](https://www.ti.com/lit/an/swra117d/swra117d.pdf)
 - [KarthikT23/HFSS-Microstrip-Patch-Antenna: Designing a 2.4 GHz antenna using Ansys HFSS](https://github.com/KarthikT23/HFSS-Microstrip-Patch-Antenna)
 - [WissamAntoun/Circularly-Polarized-Patch-Antenna-HFSS: A microstrip patch antenna with circularly polarized matched to 50 Ω and operating at 2.4 GHz. SImulation done on HFSS](https://github.com/WissamAntoun/Circularly-Polarized-Patch-Antenna-HFSS)
+https://www.ti.com/lit/an/swra117d/swra117d.pdf
+- [CC2511F32 ...](https://world.taobao.com/item/T0ZhUmErNlJwaER5M2p6cTM4VU9WZz09.htm?spm=a21wu.10013406-tw.taglist-content.8.e4d127e4H8voJ5)
+- [](https://www.mouser.com/datasheet/2/405/swru082b-1272242.pdf)
+- [](https://www.ti.com/lit/ds/symlink/cc2511.pdf?ts=1777463730982&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fzh-tw%252FCC2511)
+- [](https://www.ti.com/lit/ml/swrp085/swrp085.pdf?ts=1777441055296)
+- [Low-power 2.4-GHz products | TI.com](https://www.ti.com/product-category/wireless-connectivity/low-power-2-4-ghz/overview.html)
+- [](https://www.ti.com/lit/an/swra117d/swra117d.pdf)
 
 ### Tools
 - [thliebig/openEMS-Project: openEMS is a free and open electromagnetic field solver using the FDTD method.](https://github.com/thliebig/openEMS-Project)
+- [mlightcad/cad-viewer: The world’s first fully web-based DXF/DWG viewer and editor that runs entirely in the browser — no backend server required.](https://github.com/mlightcad/cad-viewer)
+- [thliebig/AppCSXCAD: Minimal GUI Application using the QCSXCAD library.](https://github.com/thliebig/AppCSXCAD)
+- [thliebig/QCSXCAD: QCSXCAD - Qt-GUI for CSXCAD](https://github.com/thliebig/QCSXCAD)
