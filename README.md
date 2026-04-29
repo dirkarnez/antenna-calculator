@@ -63,6 +63,9 @@
     
     **Practical Tip:** Because of the complex interactions (mutual coupling) between the meandered segments ($L_4$), these antennas are rarely built using equations alone. Most engineers use the equations to get a "starting guess" and then use **EM Simulation software** (like CST, HFSS, or OpenEMS) to fine-tune the dimensions $D, L, \text{and } W$.
     ```
+### Development board
+- [CC2511F32 ...](https://world.taobao.com/item/T0ZhUmErNlJwaER5M2p6cTM4VU9WZz09.htm?spm=a21wu.10013406-tw.taglist-content.8.e4d127e4H8voJ5)
+  
 ### Tutorials
 - [HugoTronics/WiFi-Patch-Antenna-Project: Open Source Patch Antenna Design for Wifi Application](https://github.com/HugoTronics/WiFi-Patch-Antenna-Project)
 - [AN-B-027: Designing Printed Antennas for Bluetooth Low Energy](./files/REN_AN-B-027_Designing_Printed_Antennas_for_Bluetooth_Low_Energy_Rev2.5_APN_20240627_1.pdf)
