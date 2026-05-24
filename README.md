@@ -6,6 +6,7 @@
 - [What is Antenna Impedance? (Explained) - YouTube](https://www.youtube.com/watch?v=5JfTa9FGkVQ)
 - [Antenna: Key Parameters That Define Performance (Radiation, Gain, Beamwidth, Directivity, Beamwidth & More). - YouTube](https://www.youtube.com/playlist?list=PLFxhgwM1F4yyWeuTR8ZoQEBZbfgJu5fjl)
 - [Measuring Antenna Bandwidth with R&S ZVL - YouTube](https://www.youtube.com/watch?v=Z1vquNziEmQ)
+- [Understanding VSWR and Return Loss - YouTube](https://www.youtube.com/watch?v=BijMGKbT0Wk)
 
 ### Types of antennas
 - Meander (Line)
