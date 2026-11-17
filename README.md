@@ -66,7 +66,8 @@
     ```
 ### Tools
 - https://github.com/hiperiondev/hb9cv_studio
-- 
+- https://github.com/hiperiondev/CLASS-E_DESIGN_CALCULATOR
+
 ### Development board
 - [CC2511F32 ...](https://world.taobao.com/item/T0ZhUmErNlJwaER5M2p6cTM4VU9WZz09.htm?spm=a21wu.10013406-tw.taglist-content.8.e4d127e4H8voJ5)
   
